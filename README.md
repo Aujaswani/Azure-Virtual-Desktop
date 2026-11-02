@@ -34,9 +34,8 @@ network.
 -   **Azure Virtual Desktop** provides the virtual desktop environment
     to users.
 -   Separate profile storage supports persistent user profiles.
+<img width="1636" height="1290" alt="image" src="https://github.com/user-attachments/assets/4959540b-1fee-43c6-8564-d81945d2e3f2" />
 
-![Azure Virtual Desktop Hybrid Identity
-Architecture](images/avd-hybrid-identity-architecture.png)
 
 > The diagram above represents the lab architecture used for this
 > project. Resource names shown in the diagram are lab-specific.
